@@ -20,15 +20,13 @@ I enjoy using data to create smart solutions and am always open to learning and 
     <h3>Frameworks / Languages</h3>
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,py,r,sqlite&perline=7" />
     <h3>Tools</h3>
-    <img src="https://skillicons.dev/icons?i=jupyter,github,docker,linux,git,kafka,spark&perline=7" />
-    <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=visualstudio,anaconda,pycharm,vscode&perline=7" />
+    <img src="https://skillicons.dev/icons?i=github,git,anaconda,pycharm,vscode&perline=7" />
     <br>
   </p>
 </details>
 
 
-<details align="left">
+<details align="left" open>
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
   <p>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardkazakh&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
