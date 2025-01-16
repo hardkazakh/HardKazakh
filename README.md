@@ -14,15 +14,17 @@ I have a solid foundation in mathematics, including linear algebra, calculus, pr
 
 I enjoy using data to create smart solutions and am always open to learning and working on exciting projects. Let’s connect and collaborate!
 
-<details align="left">
-  <summary><h2><b>📚 My stack</b></h2></summary>
+<details align="left" open>
+  <summary><h2><b>📊 Data Science Stack</b></h2></summary>
   <p>
-    <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,py,java,html,css,postgres,sqlite&perline=7" />
-    <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=unity,gradle,spring,linux,hibernate,githubactions,django,docker,git,bootstrap&perline=7" />
+    <h3>Languages</h3>
+    <img src="https://skillicons.dev/icons?i=py,r,sql,julia,scala,java,cpp&perline=7" />
+    <h3>Frameworks / Libraries</h3>
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,numpy,pandas,matplotlib,seaborn&perline=7" />
+    <h3>Tools</h3>
+    <img src="https://skillicons.dev/icons?i=jupyter,github,docker,linux,airflow,kafka,spark&perline=7" />
     <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=visualstudio,idea,neovim,postman,ultimate&perline=7" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,idea,postman,vscode&perline=7" />
     <br>
   </p>
 </details>
@@ -31,9 +33,9 @@ I enjoy using data to create smart solutions and am always open to learning and 
 <details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
   <p>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaggerFast&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardkazakh&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
    <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=BaggerFast&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
+   <img src="https://github-readme-stats.vercel.app/api?username=hardkazakh&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
     <br>
    <img src="https://metrics.lecoq.io/baggerfast" />
   </p>
