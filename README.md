@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! I'm BaggerFast </h1>
+<h1 align="center">👋 Hello! I'm Batyr </h1>
 
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
@@ -8,14 +8,13 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/BaggerFast)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/baggerfast)
 
-I'm a backend developer from Russia, working at [@VladStandard](https://github.com/VladStandard) / [@Elixor](https://github.com/ElixorTeam).  
+My name is Batyr. I'm 23 years old. I live in Almaty, Kazakhstan. I hold my bachelor's degree in Mathematical and Computer Modeling from SDU University. Currently, I am a 2nd-year student at the same university, majoring in Mathematics and Statistics. 
 
-I'm interested in web development, games. I hate JavaScript💀  
-At the same time, I upload videos on YouTube and teach students programming.
+I have strong skills in designing, training, and optimizing neural networks using frameworks like sk-learn, pandas, numpy, PyTorch, TensorFlow, and Keras. My expertise includes Long Short-Term Memory networks (LSTMs), transformers, and Machine Learning models for tasks like NLP, Signal Processing, and time-series analysis.
 
-## 📌Pinned
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BaggerFast&repo=ItManuals&theme=dracula&bg_color=00000000&)](https://github.com/BaggerFast/ItManuals)
+I have a solid foundation in mathematics, including linear algebra, calculus, probability, and optimization. I am skilled in data preprocessing, feature engineering, and hyperparameter tuning to ensure high model performance.
 
+I enjoy using data to create smart solutions and am always open to learning and working on exciting projects. Let’s connect and collaborate!
 
 <details align="left">
   <summary><h2><b>📚 My stack</b></h2></summary>
