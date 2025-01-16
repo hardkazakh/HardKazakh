@@ -17,14 +17,12 @@ I enjoy using data to create smart solutions and am always open to learning and 
 <details align="left" open>
   <summary><h2><b>📊 Data Science Stack</b></h2></summary>
   <p>
-    <h3>Languages</h3>
-    <img src="https://skillicons.dev/icons?i=py,r,sql,julia,scala,java,cpp&perline=7" />
-    <h3>Frameworks / Libraries</h3>
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,numpy,pandas,matplotlib,seaborn&perline=7" />
+    <h3>Frameworks / Languages</h3>
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,py,r,sqlite&perline=7" />
     <h3>Tools</h3>
-    <img src="https://skillicons.dev/icons?i=jupyter,github,docker,linux,airflow,kafka,spark&perline=7" />
+    <img src="https://skillicons.dev/icons?i=jupyter,github,docker,linux,git,kafka,spark&perline=7" />
     <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=visualstudio,idea,postman,vscode&perline=7" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,anaconda,pycharm,vscode&perline=7" />
     <br>
   </p>
 </details>
