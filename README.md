@@ -5,8 +5,6 @@
 </p>
 
 ## About me
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/BaggerFast)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/baggerfast)
 
 My name is Batyr. I'm 23 years old. I live in Almaty, Kazakhstan. I hold my bachelor's degree in Mathematical and Computer Modeling from SDU University. Currently, I am a 2nd-year student at the same university, majoring in Mathematics and Statistics. 
 
